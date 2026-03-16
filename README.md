@@ -1,6 +1,7 @@
 ## Hey, [Fahad here!](https://github.com/fahadiqbal1175) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome to my corner of the Digital World 🌍</h1>
+<h1>#WTF</h1>
+<h2>(WELCOME TO FACTS)</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-FahadIqbal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahad-iqbal-dev)](https://www.linkedin.com/in/fahad-iqbal-dev)
 [![Gmail Badge](https://img.shields.io/badge/-hafizfahad1175@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hafizfahad1175@gmail.com)](mailto:hafizfahad1175@gmail.com)
@@ -8,17 +9,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadiqbal1175" alt="fahadiqbal1175" /> </p>
 
-<div align="right">"Code is like humor. When you have to explain it, it's bad." 😉</div>
+<div align="right">"Good Software, like wine, takes time."</div>
 
 ---
 
 ## 💻 Technologies I Love
 
 * Full-Stack Web Development (MERN Stack)
-* Backend Development with Laravel
+* Backend Development
 * Artificial Intelligence & Machine Learning
 * REST API Development
-* Database Design & Management
+* Mobile Application Development
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadiqbal1175&layout=compact)
 
@@ -53,7 +54,6 @@ class WhoAmI {
   constructor() {
     this.name = "Hafiz Fahad Iqbal";
     this.role = [
-      "💻 Full Stack Developer",
       "🌐 MERN Stack Developer",
       "🤖 AI & Machine Learning Learner",
       "🎓 BSIT Student"
@@ -94,7 +94,7 @@ console.log(me.introduce());
 
 ## 🔭 Current Works
 
-* Developing **MediLens** – AI-based Pill Detection System (Final Year Project)
+* Developing **MediLens** – AI-based Pill Detection System 
 * Learning **Artificial Intelligence & Machine Learning**
 * Building **full-stack MERN applications**
 * Improving **backend architecture and API development** skills
