@@ -1,7 +1,6 @@
 ## Hey, [Fahad here!](https://github.com/fahadiqbal1175) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>#WTF</h1>
-<h2>(WELCOME TO FACTS)</h2>
+<h1>#WTF (WELCOME TO FACTS)</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-FahadIqbal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahad-iqbal-dev)](https://www.linkedin.com/in/fahad-iqbal-dev)
 [![Gmail Badge](https://img.shields.io/badge/-hafizfahad1175@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hafizfahad1175@gmail.com)](mailto:hafizfahad1175@gmail.com)
