@@ -14,8 +14,7 @@
 
 ## 💻 Technologies I Love
 
-* Full-Stack Web Development (MERN Stack)
-* Backend Development
+* Web Development
 * Artificial Intelligence & Machine Learning
 * REST API Development
 * Mobile Application Development
@@ -53,10 +52,10 @@ class WhoAmI:
     def __init__(self):
         self.name = "Hafiz Fahad Iqbal"
         self.role = [
-            "💻 Full Stack Developer",
-            "🌐 MERN Stack Developer",
+            "💻 Web Developer",
+            "🌐 Mobile Developer",
             "🤖 AI & Machine Learning Learner",
-            "🎓 BSIT Student"
+            "🎓 BSIT Graduate"
         ]
         self.current_focus = "🚀 Building scalable web applications and exploring AI/ML"
         self.hobbies = [
