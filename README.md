@@ -14,10 +14,10 @@
 
 ## 💻 Technologies I Love
 
-* Web Development
-* Artificial Intelligence & Machine Learning
-* REST API Development
-* Mobile Application Development
+* Machine Learning & Model Evaluation
+* Computer Vision & Deep Learning
+* NLP & Applied GenAI
+* ML Deployment (FastAPI, Docker)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadiqbal1175&layout=compact)
 
@@ -26,16 +26,15 @@
 ## 🛠 Programming Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
@@ -52,16 +51,16 @@ class WhoAmI:
     def __init__(self):
         self.name = "Hafiz Fahad Iqbal"
         self.role = [
-            "💻 Web Developer",
-            "🌐 Mobile Developer",
-            "🤖 AI & Machine Learning Learner",
+            "🤖 ML / AI Engineer",
+            "🧠 Computer Vision & NLP Enthusiast",
+            "💻 Full-Stack Developer (MERN)",
             "🎓 BSIT Graduate"
         ]
-        self.current_focus = "🚀 Building scalable web applications and exploring AI/ML"
+        self.current_focus = "🚀 Building and deploying computer vision & NLP-based systems"
         self.hobbies = [
-            "🛠 Building web applications",
-            "📚 Learning new technologies",
-            "🤖 Exploring Artificial Intelligence",
+            "🤖 Training and deploying ML models",
+            "📚 Learning new AI/ML techniques",
+            "🛠 Building end-to-end ML-powered applications",
             "🎯 Solving real-world problems with code"
         ]
 
@@ -70,15 +69,15 @@ class WhoAmI:
 
     def future_goals(self):
         return [
-            "🚀 Become a skilled Full-Stack Software Engineer",
-            "🤖 Build AI-powered applications",
-            "🌎 Work on impactful global tech projects",
-            "📈 Continuously improve technical expertise"
+            "🤖 Become a skilled Machine Learning / AI Engineer",
+            "🧠 Build production-grade AI-powered applications",
+            "🌎 Work on impactful global AI/ML projects",
+            "📈 Continuously deepen ML & deep learning expertise"
         ]
 
     def introduce(self):
         return (
-            f"Hi, I'm {self.name}, a passionate {self.role[1]} "
+            f"Hi, I'm {self.name}, a passionate {self.role[0]} "
             f"from {self.get_location()}.\n"
             f"My current focus is on {self.current_focus}. 🚀"
         )
@@ -91,18 +90,42 @@ print(me.introduce())
 
 ## 🔭 Current Works
 
-* Developing **MediLens** – AI-based Pill Detection System 
-* Learning **Artificial Intelligence & Machine Learning**
-* Building **full-stack MERN applications**
-* Improving **backend architecture and API development** skills
-* Exploring **AI-powered web integrations**
+* Leading development of **MediLens** – AI-powered pill-detection & medication-adherence app (YOLOv11, Kotlin/Android)
+* Deepening expertise in **Computer Vision & Deep Learning** (PyTorch, TensorFlow, OpenCV)
+* Exploring **NLP & Applied GenAI** (Named Entity Recognition, Prompt Engineering, Gemini API)
+* Deploying ML systems end-to-end with **FastAPI & Docker**
+
+---
+
+## 🚀 Featured Projects
+
+**MediLens — AI-Powered Pill Detection & Medication Assistance System** *(Team Lead & AI Engineer)*
+* Real-time pill detection using a custom-trained YOLOv11 model integrated into a Kotlin/Android app
+* Prescription-scanning pipeline combining Donut OCR + Gemini API-based NER to extract medication details
+* Reminder & caregiver-alert system persisting across device reboots — advanced in the NIC Lahore AI Wrapper Competition
+
+**Movie Recommendation System**
+* Collaborative-filtering (ALS) and ranking-based recommender evaluated with Precision@K, Recall@K, and NDCG@K
+* FastAPI backend with cold-start handling, containerized with Docker, deployed live with a public demo
+* Diagnosed and fixed a production out-of-memory issue by optimizing data structures
+
+**Credit Card Fraud Detection using Machine Learning**
+* Trained and compared an ensemble of eight classification models, including Logistic Regression and Random Forest
+* Achieved best accuracy with model explainability via LIME
+
+---
+
+## 📜 Certifications
+
+* **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI & Stanford Online (Coursera), Aug 2026
+* **Microsoft Azure AI Fundamentals** — May 2026
 
 ---
 
 ## 📄 Other Stuff
 
-* 💬 Ask me about **MERN Stack, Laravel, APIs, AI/ML, or Web Development**
-* ⚡ Fun fact: I enjoy turning complex problems into simple software solutions!
+* 💬 Ask me about **Machine Learning, Computer Vision, NLP, MERN Stack, or ML Deployment**
+* ⚡ Fun fact: I enjoy turning complex problems into simple, deployable AI solutions!
 
 ![Fahad's github stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal1175&show_icons=true&hide=issues)
 
