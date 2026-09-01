@@ -25,8 +25,6 @@
 * NLP & Applied GenAI
 * ML Deployment (FastAPI, Docker)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadiqbal1175&layout=compact)
-
 ---
 
 ## 🛠 Programming Languages & Tools
