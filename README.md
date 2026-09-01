@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg (1)" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg (1)" />
   <img alt="fahadiqbal1175's GitHub profile" src="dark_mode.svg" />
 </picture>
 ## Hey, [Fahad here!](https://github.com/fahadiqbal1175) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
