@@ -131,8 +131,6 @@ print(me.introduce())
 * 💬 Ask me about **Machine Learning, Computer Vision, NLP, MERN Stack, or ML Deployment**
 * ⚡ Fun fact: I enjoy turning complex problems into simple, deployable AI solutions!
 
-![Fahad's github stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal1175&show_icons=true&hide=issues)
-
 ---
 
 ## 👉 Contacts
