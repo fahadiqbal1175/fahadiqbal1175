@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -130,7 +130,7 @@ print(me.introduce())
 - Reminder & caregiver-alert system that persists across device reboots
 - Advanced in the **NIC Lahore AI Wrapper Competition**
 
-🔗 [Case Study](https://fahad-iqbal-iota.vercel.app/#project/medilens)
+🔗 [Demo Video](https://youtu.be/_Fszlqpgr1g) • [Case Study](https://fahad-iqbal-iota.vercel.app/#project/medilens) • [GitHub Repo](https://github.com/Wcoder547/MediLens.git)
 
 ###  MovieLens 25M — Production-Style Movie Recommendation System
 - ALS collaborative filtering + ranking model, evaluated with Precision@K, Recall@K, NDCG@K
@@ -157,7 +157,7 @@ print(me.introduce())
 
 ## 📜 Certifications
 
-[![Azure](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)]()
+[![Azure](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/081220c1-ced2-48eb-819d-55bbf364cb5a)
 Microsoft, May 2026
 
 [![Coursera](https://img.shields.io/badge/Coursera-Supervised%20ML%3A%20Regression%20%26%20Classification-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/9PZFECWKDJZJ)
