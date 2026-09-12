@@ -166,7 +166,7 @@ DeepLearning.AI & Stanford Online, Aug 2026
 [![Coursera](https://img.shields.io/badge/Coursera-Advanced%20Learning%20Algorithms-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/9PZFECWKDJZJ)
 DeepLearning.AI & Stanford Online, Sep 2026
 
-[![Forage](https://img.shields.io/badge/Forage-Data%20Science%20Job%20Simulation-00A19A?style=flat-square&logo=serverless&logoColor=white)]()
+[![Forage](https://img.shields.io/badge/Forage-Data%20Science%20Job%20Simulation-00A19A?style=flat-square&logo=serverless&logoColor=white)](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_6a99269e728eb88678cd471c_1788436627819_completion_certificate.pdf)
 BCG X, Sep 2026
 
 [![Internship](https://img.shields.io/badge/Kivro%20Solutions-Full%20Stack%20Development%20Internship-1A237E?style=flat-square&logo=codersrank&logoColor=white)]()
