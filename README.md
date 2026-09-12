@@ -25,12 +25,12 @@
 
 ## 💻 Technologies I Love
 
-* 🤖 Machine Learning & Model Evaluation
-* 👁️ Computer Vision & Object Detection (YOLO)
-* 🧠 Deep Learning (TensorFlow)
-* 💬 NLP & Applied GenAI (Gemini API, OCR, NER)
-* ⚙️ ML Deployment & MLOps (FastAPI, Docker, MLflow)
-* 🌐 Full-Stack Development (MERN)
+*  Machine Learning & Model Evaluation
+*  Computer Vision & Object Detection
+*  Deep Learning
+*  NLP & Applied GenAI
+*  ML Deployment & MLOps (FastAPI, Docker, MLflow)
+*  Full-Stack Development (MERN)
 
 ---
 
@@ -68,23 +68,23 @@ class WhoAmI:
     def __init__(self):
         self.name = "Hafiz Fahad Iqbal"
         self.role = [
-            "🤖 AI / ML Engineer",
-            "🧠 Computer Vision & NLP Enthusiast",
-            "💻 Full-Stack Developer (MERN)",
-            "🎓 BSIT Graduate"
+            " AI / ML Engineer",
+            " Computer Vision & NLP Enthusiast",
+            " Full-Stack Developer (MERN)",
+            " BSIT Graduate"
         ]
-        self.current_focus = "🚀 Building and deploying computer vision & ML-powered systems end-to-end"
+        self.current_focus = "Building and deploying computer vision & ML-powered systems end-to-end"
         self.portfolio = "https://fahad-iqbal-iota.vercel.app/"
 
     def get_location(self):
-        return "📍 Hyderabad, Pakistan"
+        return " Islamabad, Pakistan"
 
     def future_goals(self):
         return [
-            "🤖 Grow as a Machine Learning / AI Engineer",
-            "🧠 Build production-grade AI-powered applications",
-            "🌎 Work on impactful global AI/ML projects",
-            "📈 Continuously deepen ML & deep learning expertise"
+            " Grow as a Machine Learning / AI Engineer",
+            " Build production-grade AI-powered applications",
+            " Work on impactful global AI/ML projects",
+            " Continuously deepen ML & deep learning expertise"
         ]
 
     def introduce(self):
@@ -92,7 +92,7 @@ class WhoAmI:
             f"Hi, I'm {self.name}, a passionate {self.role[0]} "
             f"from {self.get_location()}.\n"
             f"My current focus is {self.current_focus}. "
-            f"Check out my work at {self.portfolio} 🚀"
+            f"Check out my work at {self.portfolio} "
         )
 
 me = WhoAmI()
@@ -104,11 +104,10 @@ print(me.introduce())
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadiqbal1175&show_icons=true&theme=tokyonight&hide_border=true" alt="Fahad's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadiqbal1175&theme=tokyonight&hide_border=true" alt="Fahad's GitHub Streak" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadiqbal1175&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadiqbal1175&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/> -->
 </p>
 
 ---
@@ -124,7 +123,7 @@ print(me.introduce())
 
 ## 🚀 Featured Projects
 
-### 🩺 MediLens — AI-Powered Pill Detection & Medication Assistance
+###  MediLens — AI-Powered Pill Detection & Medication Assistance
 *Team Lead & AI Engineer*
 - Real-time pill detection via a custom-trained **YOLOv11** model (99.0% mAP), integrated into a Kotlin/Android app
 - Prescription-scanning pipeline: **Donut OCR** + **Gemini API** for medication NER
@@ -133,7 +132,7 @@ print(me.introduce())
 
 🔗 [Case Study](https://fahad-iqbal-iota.vercel.app/#project/medilens)
 
-### 🎬 MovieLens 25M — Production-Style Movie Recommendation System
+###  MovieLens 25M — Production-Style Movie Recommendation System
 - ALS collaborative filtering + ranking model, evaluated with Precision@K, Recall@K, NDCG@K
 - FastAPI backend with cold-start handling, containerized with Docker
 - Diagnosed and fixed a production out-of-memory bug (~1.7GB → ~450MB footprint)
@@ -142,14 +141,14 @@ print(me.introduce())
 🔗 [Live Demo](https://movielens-recommender-a4je.onrender.com) • [Case Study](https://fahad-iqbal-iota.vercel.app/#project/movielens-recommender) • [GitHub Repo](https://github.com/fahadiqbal1175/movielens-recommender_ml_project)
 > Hosted on Render's free tier — may take a few seconds to spin up.
 
-### 📊 WellPulse — Student Wellbeing Prediction System 🚧 *In Progress*
+### WellPulse — Student Wellbeing Prediction System 
 - Regression model predicting a wellbeing score from social-media/behavioral survey data
 - Experiment tracking & model registry with **MLflow**, explainability via **SHAP**
 - Inference served through a **FastAPI** backend
 
 🔗 [Case Study](https://fahad-iqbal-iota.vercel.app/#project/wellpulse) • [GitHub Repo](https://github.com/fahadiqbal1175/wellpulse_ml_project)
 
-### 💳 Credit Card Fraud Detection
+###  Credit Card Fraud Detection
 - Trained and compared an ensemble of eight classification models (Logistic Regression, Random Forest, and more)
 - Achieved 99.99% accuracy on 440K+ transactions
 - Model explainability via **LIME**
@@ -158,11 +157,20 @@ print(me.introduce())
 
 ## 📜 Certifications
 
-[![Coursera](https://img.shields.io/badge/Coursera-Supervised%20ML%3A%20Regression%20%26%20Classification-0056D2?style=flat-square&logo=coursera&logoColor=white)]()
+[![Azure](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)]()
+Microsoft, May 2026
+
+[![Coursera](https://img.shields.io/badge/Coursera-Supervised%20ML%3A%20Regression%20%26%20Classification-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/9PZFECWKDJZJ)
 DeepLearning.AI & Stanford Online, Aug 2026
 
-[![Azure](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)]()
-Microsoft, May 2026
+[![Coursera](https://img.shields.io/badge/Coursera-Advanced%20Learning%20Algorithms-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/9PZFECWKDJZJ)
+DeepLearning.AI & Stanford Online, Sep 2026
+
+[![Forage](https://img.shields.io/badge/Forage-Data%20Science%20Job%20Simulation-00A19A?style=flat-square&logo=serverless&logoColor=white)]()
+BCG X, Sep 2026
+
+[![Internship](https://img.shields.io/badge/Kivro%20Solutions-Full%20Stack%20Development%20Internship-1A237E?style=flat-square&logo=codersrank&logoColor=white)]()
+Kivro Solutions, Batch #01 — Excellent Performer
 
 ---
 
