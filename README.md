@@ -114,7 +114,7 @@ print(me.introduce())
 
 ## 🔭 Current Works
 
-*  Building **WellPulse** — ML-first project predicting a student wellbeing score from social-media/behavioral survey data (SHAP explainability, MLflow tracking & registry, FastAPI inference)
+*  Completing **WellPulse** ML project predicting a student wellbeing score from social-media/behavioral survey data (SHAP explainability, MLflow tracking & registry, FastAPI inference)
 *  Promoting **MediLens** (Final Year Project) after finishing development — advanced in the NIC Lahore AI Wrapper Competition
 *  Polishing my **portfolio website** with detailed project case studies
 *  Deepening Computer Vision & Deep Learning expertise (TensorFlow, OpenCV, Ultralytics/YOLO)
@@ -142,11 +142,12 @@ print(me.introduce())
 > Hosted on Render's free tier — may take a few seconds to spin up.
 
 ### WellPulse — Student Wellbeing Prediction System 
-- Regression model predicting a wellbeing score from social-media/behavioral survey data
-- Experiment tracking & model registry with **MLflow**, explainability via **SHAP**
-- Inference served through a **FastAPI** backend
+- Regression model predicting a 1–10 student wellbeing score from social-media/behavioral survey data, including a leakage check that excluded a feature explaining 89% of the target's variance on its own
+- 9 model families compared (incl. LightGBM, XGBoost); experiment tracking, model registry & explainability via MLflow and SHAP
+- FastAPI backend with per-user auth and PostgreSQL persistence, containerized and deployed live on Render via GitHub Actions CI/CD
+- Weekly automated drift-monitoring job watching live production data; 71 automated tests across the full pipeline
 
-🔗 [Case Study](https://fahad-iqbal-iota.vercel.app/#project/wellpulse) • [GitHub Repo](https://github.com/fahadiqbal1175/wellpulse_ml_project)
+🔗 [Live Demo](https://wellpulse.onrender.com) • [Case Study](https://fahad-iqbal-iota.vercel.app/#project/wellpulse) • [GitHub Repo](https://github.com/fahadiqbal1175/wellpulse_ml_project)
 
 ###  Credit Card Fraud Detection
 - Trained and compared an ensemble of eight classification models (Logistic Regression, Random Forest, and more)
