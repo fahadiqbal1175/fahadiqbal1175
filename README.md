@@ -123,7 +123,7 @@ print(me.introduce())
 
 ## 🚀 Featured Projects
 
-###  MediLens — AI-Powered Pill Detection & Medication Assistance
+###  MediLens: AI-Powered Pill Detection & Medication Assistance
 *Team Lead & AI Engineer*
 - Real-time pill detection via a custom-trained **YOLOv11** model (99.0% mAP), integrated into a Kotlin/Android app
 - Prescription-scanning pipeline: **Donut OCR** + **Gemini API** for medication NER
@@ -132,7 +132,7 @@ print(me.introduce())
 
 🔗 [Demo Video](https://youtu.be/_Fszlqpgr1g) • [Case Study](https://fahad-iqbal-iota.vercel.app/#project/medilens) • [GitHub Repo](https://github.com/Wcoder547/MediLens.git)
 
-###  MovieLens 25M — Production-Style Movie Recommendation System
+###  MovieLens: Production-Style Movie Recommendation System
 - ALS collaborative filtering + ranking model, evaluated with Precision@K, Recall@K, NDCG@K
 - FastAPI backend with cold-start handling, containerized with Docker
 - Diagnosed and fixed a production out-of-memory bug (~1.7GB → ~450MB footprint)
@@ -141,7 +141,7 @@ print(me.introduce())
 🔗 [Live Demo](https://movielens-recommender-a4je.onrender.com) • [Case Study](https://fahad-iqbal-iota.vercel.app/#project/movielens-recommender) • [GitHub Repo](https://github.com/fahadiqbal1175/movielens-recommender_ml_project)
 > Hosted on Render's free tier — may take a few seconds to spin up.
 
-### WellPulse — Student Wellbeing Prediction System 
+### WellPulse: Student Wellbeing Prediction System 
 - Regression model predicting a 1–10 student wellbeing score from social-media/behavioral survey data, including a leakage check that excluded a feature explaining 89% of the target's variance on its own
 - 9 model families compared (incl. LightGBM, XGBoost); experiment tracking, model registry & explainability via MLflow and SHAP
 - FastAPI backend with per-user auth and PostgreSQL persistence, containerized and deployed live on Render via GitHub Actions CI/CD
